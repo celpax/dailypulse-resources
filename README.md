@@ -3,7 +3,9 @@ DailyPulse Resources
 This project includes some files to help during the graphic design of your DailyPulse integration.
 The followign picture shows how DailyPulse users normally see the dashboard.
 ![DailyPulse Dashboard](http://www.celpax.com/wp-content/uploads/2014/09/Dashboard-DailyPulse.jpg)
-This project includes some of the graphic elements used and references to the reset, in case you find them useful!
+
+# About
+This project includes some of the graphic elements used and references to the rest, in case you find them useful!
 # Package manager
 Some of the graphic elements are distributed via the [bower package manager](http://bower.io/).
 In their own words:
@@ -27,6 +29,8 @@ Some of the resources here come from the following great projects, and we recomm
 * [Fontawesome](http://fortawesome.github.io/Font-Awesome/)
 * [jquery-knob](https://github.com/aterrien/jQuery-Knob)
 * [Google Fonts](https://www.google.com/fonts)
+# Contact
+Please do not hesitate to contact us if you find anything missing or need help.
 
 
 
