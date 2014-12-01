@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Bahamas';
+    src: url('../font/bahamas-webfont.eot');
+    src: url('../font/bahamas-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../font/bahamas-webfont.woff') format('woff'),
+    url('../font/bahamas-webfont.ttf') format('truetype');
+//        url('../font/bahamas-webfont.svg#bahamasregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
