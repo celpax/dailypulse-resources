@@ -29,6 +29,7 @@ Some of the resources here come from the following great projects, and we recomm
 * [Fontawesome](http://fortawesome.github.io/Font-Awesome/)
 * [jquery-knob](https://github.com/aterrien/jQuery-Knob)
 * [Google Fonts](https://www.google.com/fonts)
+
 # Contact
 Please do not hesitate to contact us if you find anything missing or need help.
 
